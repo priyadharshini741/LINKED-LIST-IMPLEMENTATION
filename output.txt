@@ -1,0 +1,6 @@
+Invalid choice.
+Inserted: 2
+Linked List: 2 -> NULL
+Value not found: 6
+Inserted: 8
+Exiting program.
